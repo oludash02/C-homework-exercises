@@ -2,7 +2,6 @@
 You should fill in this section with the resources that you used to develop your code.  You don't need to include the teaching staff or the textbook, but you should list anyone you worked with, and any online or paper resources you used.
 
 /*
-<p>Discussed problem 2 with Emily</p>
 online resource: https://www.geeksforgeeks.org/ 
 
 https://stackoverflow.com/questions/6282198/reading-string-from-input-with-space-character
