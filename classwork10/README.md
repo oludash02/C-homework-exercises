@@ -1,6 +1,6 @@
 # Resources
 You should fill in this section with the resources that you used to develop your code.  You don't need to include the teaching staff or the textbook, but you should list anyone you worked with, and any online or paper resources you used.
-<p>- Discussed the homework with Lucia and Emily</p>
+
 <p>- Operator overloading: https://www.tutorialspoint.com/cplusplus/subscripting_operator_overloading.htm</p>
 <p>- Friend class and function in C++: https://www.geeksforgeeks.org/friend-class-function-cpp/</p>
 <p>- https://www.geeksforgeeks.org/operator-overloading-cpp-print-contents-vector-map-pair/</p>
