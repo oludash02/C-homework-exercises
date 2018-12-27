@@ -1,11 +1,8 @@
 # Resources
 You should fill in this section with the resources that you used to develop your code.  You don't need to include the teaching staff or the textbook, but you should list anyone you worked with, and any online or paper resources you used.
 
-/*
-* Discussed the homework with Emily and Lucia
 * https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&disable_polymer=true - Helped alot in explaining overloading, destructor and constructor
 
-*/
 # Overview
 In this assignment, you'll upgrade your `Array` class to use proper constructors and a destructor.  Again, be sure to use Valgrind at some point in your testing, since OOP features in C++ make it very easy to leak memory.
 
