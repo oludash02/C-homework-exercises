@@ -1,7 +1,6 @@
 # Resources
 You should fill in this section with the resources that you used to develop your code.  You don't need to include the teaching staff or the textbook, but you should list anyone you worked with, and any online or paper resources you used.
 
-- Discussed the homework with Emily and Lucia
 - Exceptions: https://www.tutorialspoint.com/cplusplus/cpp_exceptions_handling.htm
 - Bad_alloc exceptions: https://csegeek.com/csegeek/view/tutorials/cpp_lang/cpp_exception.php
 
