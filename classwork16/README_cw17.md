@@ -1,6 +1,6 @@
 # Resources
 You should fill in this section with the resources that you used to develop your code.  You don't need to include the teaching staff or the textbook, but you should list anyone you worked with, and any online or paper resources you used.
-1. Discussed the homework with Emily
+
 2. Review of Mutexes: https://www.geeksforgeeks.org/sharing-queue-among-three-threads/
 3. Reference: https://en.cppreference.com/w/cpp/thread/mutex
 4. Mutex tutorial: https://stackoverflow.com/questions/4989451/mutex-example-tutorial
