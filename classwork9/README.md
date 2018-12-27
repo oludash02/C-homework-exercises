@@ -3,7 +3,6 @@ You should fill in this section with the resources that you used to develop your
 <p>/*</p>
 <p>Binary search tree - Implementation in C/C++: https://www.youtube.com/watch?v=COZK7NATh4k </p>
 <p>Binary Search - Recursive implementation: https://www.youtube.com/watch?v=-bQ4UzUmWe8 </p>
-<p>Lucia explained the concept of Binary trees and how sample.mon tree structure looks like </p>
 <p>*/</p>
 
 # Overview
