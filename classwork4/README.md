@@ -1,10 +1,6 @@
 # Resources
 You should fill in this section with the resources that you used to develop your code.  You don't need to include the teaching staff or the textbook, but you should list anyone you worked with, and any online or paper resources you used.
 
-/*
-Lucia corrected my problem 3,I needed to add const to the Triangle function so it would work correctly on autograder.
-*/
-
 # Overview
 This classwork set is very similar to the previous one; you'll be writing functions which perform particular operations.
 
