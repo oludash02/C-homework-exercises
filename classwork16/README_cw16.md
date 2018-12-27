@@ -5,7 +5,7 @@ You should fill in this section with the resources that you used to develop your
 3. Max-Heap review: https://www.geeksforgeeks.org/binary-heap/
 4. http://www.cplusplus.com/forum/general/158188/
 5. https://www.techiedelight.com/min-heap-max-heap-implementation/
-6. Discussed the homework with Emily
+
 
 # Overview
 Like the Array and LinkedList assignments, your task is to build a priority queue class using a heap as the underlying data structure.  Hopefully this is a little simpler, since there are fewer methods to implement, and you don't have to manage memory.
