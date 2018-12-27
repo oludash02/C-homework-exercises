@@ -2,7 +2,6 @@
 You should fill in this section with the resources that you used to develop your code.  You don't need to include the teaching staff or the textbook, but you should list anyone you worked with, and any online or paper resources you used.
 
 /*
-Emily helped debug my code for problem 4, and also discussed the tic-tac-toe game with Lucia
 The C programming language by Dennis Ritchie andd Brian Kernighan
 */
 
